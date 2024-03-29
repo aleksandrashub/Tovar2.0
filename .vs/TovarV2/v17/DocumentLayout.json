@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TovarV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|d:\\tovarv2\\addtovar.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:addtovar.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|d:\\tovarv2\\addtovar.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:addtovar.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTovar.axaml.cs",
+              "DocumentMoniker": "D:\\TovarV2\\AddTovar.axaml.cs",
+              "RelativeDocumentMoniker": "AddTovar.axaml.cs",
+              "ToolTip": "D:\\TovarV2\\AddTovar.axaml.cs",
+              "RelativeToolTip": "AddTovar.axaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:31:02.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddTovar.axaml",
+              "DocumentMoniker": "D:\\TovarV2\\AddTovar.axaml",
+              "RelativeDocumentMoniker": "AddTovar.axaml",
+              "ToolTip": "D:\\TovarV2\\AddTovar.axaml",
+              "RelativeToolTip": "AddTovar.axaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-25T13:59:04.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
